@@ -38,9 +38,9 @@
 <tr>
 <td valign="top" width="50%">
 **🤹‍♀️ <a href="https://youngfish42.github.io/" target="_blank">Recent Blog</a>**
-
 <!-- START_SECTION:blog -->
 <!-- END_SECTION:blog -->
+
 </td>
 <td valign="top" width="50%">
 
@@ -48,6 +48,7 @@
 
 <!-- START_SECTION:douban -->
 <!-- END_SECTION:douban -->
+
 </td>
 </tr>
 
