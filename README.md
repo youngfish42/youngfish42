@@ -63,15 +63,5 @@
 </td>
 </tr>
 
-**💻 <a href="https://github.com/youngfish42" target="_blank">Recent Activity</a>
-<!-- START_SECTION:github -->
-| Date | Title |
-| :-: | :---: |
-| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/49f2db9398...36d84ad18a) |
-| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/51467d1c63...49f2db9398) |
-| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/d3d7df6cf6...51467d1c63) |
-| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/ce21fd0520...d3d7df6cf6) |
-| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/89502fb39d...ce21fd0520) |
-<!-- END_SECTION:github -->
 
 </table>
