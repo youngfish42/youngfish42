@@ -39,6 +39,9 @@
 <td valign="top" width="50%">
 **🤹‍♀️ <a href="https://youngfish42.github.io/" target="_blank">Recent Blog</a>**
 <!-- START_SECTION:blog -->
+| Date | Title |
+| :-: | :---: |
+| 2022-01-16 | <a href='https://youngfish42.github.io/posts/hello-world/' target='_blank'>Hello World</a> |
 <!-- END_SECTION:blog -->
 
 </td>
@@ -47,6 +50,9 @@
 **🤾‍♂️ <a href="https://www.douban.com/people/187848884/" target="_blank">Funny Soul</a>**
 
 <!-- START_SECTION:douban -->
+| Date | Title |
+| :-: | :---: |
+| 2023-03-01 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
 <!-- END_SECTION:douban -->
 
 </td>
@@ -54,6 +60,13 @@
 
 **💻 <a href="https://github.com/youngfish42" target="_blank">Recent Activity</a>
 <!-- START_SECTION:github -->
+| Date | Title |
+| :-: | :---: |
+| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/49f2db9398...36d84ad18a) |
+| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/51467d1c63...49f2db9398) |
+| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/d3d7df6cf6...51467d1c63) |
+| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/ce21fd0520...d3d7df6cf6) |
+| 2023-03-02 | pushed to main in 📌 [youngfish42/youngfish42](https://github.com/youngfish42/youngfish42/compare/89502fb39d...ce21fd0520) |
 <!-- END_SECTION:github -->
 
 </table>
