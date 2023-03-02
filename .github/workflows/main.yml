@@ -13,10 +13,10 @@ jobs:
     steps:
       - uses: beiyuouo/readme-action@main
         with:
-          blog_rss_link: https://blog.bj-yan.top/index.xml
+          blog_rss_link: https://youngfish42.github.io/index.xml
           blog_limit: 5
           blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
-          douban_name: 179948994
+          douban_name: 187848884
           douban_limit: 5
           commit_message: Update readme rss by readme-action
           time_zone: "Asia/Shanghai"

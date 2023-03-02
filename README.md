@@ -1,32 +1,35 @@
-<h3 align="center"> Bingjie YAN / 北屿 (beiyuouo) </h3>
-
+<h3 align="center"> Yuwen Yang / 白小鱼 (youngfish) </h3>
 
 <p align="center">
   <samp>
-    <a href="https://www.bj-yan.top/">homepage</a> ∙
-    <a href="https://blog.bj-yan.top/">blog</a> ∙
-    <a href="https://nav.bj-yan.top/">nav</a> ∙
-    <a href="https://www.bj-yan.top/pdf/cv_en.pdf">cv</a> ∙ 
-    <a href="https://github.com/beiyuouo">github</a> ∙ 
-    <a href="https://space.bilibili.com/23511429">bilibili</a>
+    <a href="https://youngfish42.github.io/">blog</a> ∙
+    <a href="https://www.zhihu.com/people/youngfish42">zhihu</a> ∙
+    <a href="https://youngfish42.github.io/note">note</a> ∙
+    <a href="https://github.com/youngfish42">github</a> ∙ 
+    <a href="https://space.bilibili.com/38135278">bilibili</a>
   </samp>
 </p>
 
 
+
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=beiyuouo&show_icons=true&hide_border=true&theme=radical" width="50%">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=youngfish42&show_icons=true&hide_border=true&theme=swift" width="50%">
 
 
 #### Welcome to my github profile!
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-- 🔭 I’m a postgraduate student [**@ICT.CAS**](http://www.ict.cas.cn/).
-- 🌱 My current research interests are focus on federated learning, edge computing, and distributed systems.
-- 📫 You can reach me at [bj.yan.pa@qq.com](mailto:bj.yan.pa@qq.com).
-- 🎨 I am glad to share and communicate with you.
-- ❤️ Also love AI for art.
+
+- 🔭 I’m currently a Ph.D. Candidate @[SJTU](https://www.sjtu.edu.cn/).
+- 🌱 My current research interests are focus on federated learning and edge intelligence.
+- 📫 You can reach me at [im.young@foxmail.com](mailto:im.young@foxmail.com).
+- 🎨 I hope to make more attempts in my life and know everything I want.
+- ❤️ Love writing articles about frontier progress and funny things of AI.
+
+
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
@@ -52,6 +55,7 @@
 **🤾‍♂️ <a href="https://blog.bj-yan.top/" target="_blank">Funny Soul</a>**
 
 <!-- START_SECTION:douban -->
+
 | Date | Title |
 | :-: | :---: |
 | 2023-02-24 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
