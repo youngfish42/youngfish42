@@ -52,7 +52,7 @@
 </tr>
 
 **💻 <a href="https://github.com/youngfish42" target="_blank">Recent Activity</a>
-<!-- START_SECTION:github-xxx -->
-<!-- END_SECTION:github-xxx -->
+<!-- START_SECTION:github -->
+<!-- END_SECTION:github -->
 
 </table>
