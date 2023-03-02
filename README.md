@@ -42,6 +42,7 @@
 | Date | Title |
 | :-: | :---: |
 | 2022-01-16 | <a href='https://youngfish42.github.io/posts/hello-world/' target='_blank'>Hello World</a> |
+| 0001-01-01 | <a href='https://youngfish42.github.io/posts/test/' target='_blank'></a> |
 <!-- END_SECTION:blog -->
 
 </td>
@@ -53,6 +54,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2023-03-01 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
+| 2023-02-20 | 看过😎 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> ⭐⭐⭐⭐ |
+| 2023-02-06 | 看过😎 <a href='http://movie.douban.com/subject/35267208/' target='_blank'>流浪地球2</a> ⭐⭐⭐⭐⭐ |
+| 2023-02-02 | 读过 <a href='https://book.douban.com/subject/4833149/' target='_blank'>湘菜王888</a> ⭐⭐⭐⭐ |
+| 2022-11-27 | 看过😎 <a href='http://movie.douban.com/subject/26654184/' target='_blank'>万里归途</a> ⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
