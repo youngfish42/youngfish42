@@ -43,7 +43,8 @@
 <!-- START_SECTION:blog -->
 | Date | Title |
 | :-: | :---: |
-
+| 2023-03-02 | <a href='https://youngfish42.github.io/blog/posts/test/' target='_blank'>Hello World</a> |
+| 2022-01-16 | <a href='https://youngfish42.github.io/blog/posts/hello-world/' target='_blank'>Hello World</a> |
 <!-- END_SECTION:blog -->
 
 </td>
