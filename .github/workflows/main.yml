@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: beiyuouo/readme-action@main
         with:
-          blog_rss_link: https://youngfish42.github.io/index.xml
+          blog_rss_link: https://youngfish42.github.io/blog/index.xml
           blog_limit: 5
           blog_time_format: "%a, %d %b %Y %H:%M:%S %z"
           douban_name: 187848884
