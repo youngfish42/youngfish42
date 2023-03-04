@@ -2,7 +2,7 @@
 
 <p align="center">
   <samp>
-    <a href="https://youngfish42.github.io/">blog</a> ∙
+    <a href="https://youngfish42.github.io/blog">blog</a> ∙
     <a href="https://www.zhihu.com/people/youngfish42">zhihu</a> ∙
     <a href="https://youngfish42.github.io/note">note</a> ∙
     <a href="https://github.com/youngfish42">github</a> ∙ 
@@ -38,7 +38,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🤹‍♀️ <a href="https://youngfish42.github.io/" target="_blank">Recent Blog</a>**
+**🤹‍♀️ <a href="https://youngfish42.github.io/blog" target="_blank">Recent Blog</a>**
 
 <!-- START_SECTION:blog -->
 | Date | Title |
