@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-03-01 | 想读 <a href='https://book.douban.com/subject/3249247/' target='_blank'>高观点下的初等数学</a>  |
-| 2023-02-20 | 看过😎 <a href='http://movie.douban.com/subject/35465232/' target='_blank'>狂飙</a> ⭐⭐⭐⭐ |
-| 2023-02-06 | 看过😎 <a href='http://movie.douban.com/subject/35267208/' target='_blank'>流浪地球2</a> ⭐⭐⭐⭐⭐ |
-| 2023-02-02 | 读过 <a href='https://book.douban.com/subject/4833149/' target='_blank'>湘菜王888</a> ⭐⭐⭐⭐ |
-| 2022-11-27 | 看过😎 <a href='http://movie.douban.com/subject/26654184/' target='_blank'>万里归途</a> ⭐⭐⭐⭐ |
+| 2023-04-15 | 想读 <a href='https://book.douban.com/subject/35316407/' target='_blank'>救猫咪：电影编剧指南</a>  |
+| 2023-04-15 | 听过😋 <a href='https://music.douban.com/subject/26949844/' target='_blank'>七里香</a> ⭐⭐⭐⭐⭐ |
+| 2023-04-15 | 听过😋 <a href='https://music.douban.com/subject/30333536/' target='_blank'>简单爱</a> ⭐⭐⭐⭐⭐ |
+| 2023-04-15 | 听过😋 <a href='https://music.douban.com/subject/4244048/' target='_blank'>JAY</a> ⭐⭐⭐⭐⭐ |
+| 2023-04-15 | 听过😋 <a href='https://music.douban.com/subject/1481550/' target='_blank'>Initial J</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
