@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-03 | 听过😋 <a href='https://music.douban.com/subject/2073639/' target='_blank'>BEYOND超越BEYOND LIVE 2003</a>  |
-| 2023-06-03 | 听过😋 <a href='https://music.douban.com/subject/6543915/' target='_blank'>周杰伦:无与伦比演唱会(2DVD5)</a>  |
-| 2023-04-22 | 想读 <a href='https://book.douban.com/subject/26704403/' target='_blank'>二手时间</a>  |
-| 2023-04-16 | 想玩 <a href='http://www.douban.com/game/35110438/' target='_blank'>双人成行 It Takes Two</a>  |
-| 2023-04-16 | 玩过 <a href='http://www.douban.com/game/27080356/' target='_blank'>为了吾王 For The King</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26890275/' target='_blank'>金庸群侠传2</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/24705090/' target='_blank'>拳皇97 The King of Fighters '97</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26791492/' target='_blank'>文明6 Sid Meier's Civilization VI</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26630738/' target='_blank'>传说之下 Undertale</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/10745247/' target='_blank'>王国保卫战 Kingdom Rush</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
