@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26890275/' target='_blank'>金庸群侠传2</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/24705090/' target='_blank'>拳皇97 The King of Fighters '97</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26791492/' target='_blank'>文明6 Sid Meier's Civilization VI</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/26630738/' target='_blank'>传说之下 Undertale</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过 <a href='http://www.douban.com/game/10745247/' target='_blank'>王国保卫战 Kingdom Rush</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26890275/' target='_blank'>金庸群侠传2</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/24705090/' target='_blank'>拳皇97 The King of Fighters '97</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26791492/' target='_blank'>文明6 Sid Meier's Civilization VI</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26630738/' target='_blank'>传说之下 Undertale</a> ⭐⭐⭐⭐⭐ |
+| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/10745247/' target='_blank'>王国保卫战 Kingdom Rush</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
