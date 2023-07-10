@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26890275/' target='_blank'>金庸群侠传2</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/24705090/' target='_blank'>拳皇97 The King of Fighters '97</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26791492/' target='_blank'>文明6 Sid Meier's Civilization VI</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/26630738/' target='_blank'>传说之下 Undertale</a> ⭐⭐⭐⭐⭐ |
-| 2023-06-05 | 玩过🕹 <a href='http://www.douban.com/game/10745247/' target='_blank'>王国保卫战 Kingdom Rush</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/25697495/' target='_blank'>情感依附</a>  |
+| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35173329/' target='_blank'>真希望我父母读过这本书</a>  |
+| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35038244/' target='_blank'>思考的孩子</a>  |
+| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35862071/' target='_blank'>中国的蔬菜</a>  |
+| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35476379/' target='_blank'>打开孩子世界的100个问题</a>  |
 <!-- END_SECTION:douban -->
 
 </td>
