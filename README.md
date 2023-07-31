@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-07-30 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-30 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
+| 2023-07-30 | 在看👀 <a href='http://movie.douban.com/subject/35887778/' target='_blank'>虽然1级但以固有技能却是最强的</a> ⭐⭐⭐ |
 | 2023-07-26 | 想读📚 <a href='https://book.douban.com/subject/35750988/' target='_blank'>隐私计算</a>  |
 | 2023-07-15 | 看过😎 <a href='http://movie.douban.com/subject/35288632/' target='_blank'>在异世界迷宫开后宫</a> ⭐⭐ |
-| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/25697495/' target='_blank'>情感依附</a>  |
-| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35173329/' target='_blank'>真希望我父母读过这本书</a>  |
-| 2023-07-09 | 想读📚 <a href='https://book.douban.com/subject/35038244/' target='_blank'>思考的孩子</a>  |
 <!-- END_SECTION:douban -->
 
 </td>
