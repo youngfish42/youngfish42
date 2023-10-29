@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2023-10-18 | 想看🤔 <a href='http://movie.douban.com/subject/1310159/' target='_blank'>梁祝</a>  |
-| 2023-09-24 | 读过🤓 <a href='https://book.douban.com/subject/35143790/' target='_blank'>蛤蟆先生去看心理医生</a> ⭐⭐⭐⭐⭐ |
-| 2023-09-24 | 看过😎 <a href='http://movie.douban.com/subject/35887778/' target='_blank'>虽然1级但以固有技能却是最强的</a> ⭐⭐⭐ |
-| 2023-08-20 | 看过😎 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰篇</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-30 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-28 | 听过😋 <a href='https://music.douban.com/subject/36335011/' target='_blank'>崩坏:星穹铁道 - 失控</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/35925645/' target='_blank'>崩坏：星穹铁道</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/36124711/' target='_blank'>土豆兄弟 Brotato</a> ⭐⭐⭐⭐⭐ |
+| 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/36242189/' target='_blank'>通神榜 Noobs Want to Live</a> ⭐⭐⭐⭐ |
+| 2023-10-28 | 读过🤓 <a href='https://book.douban.com/subject/35989392/' target='_blank'>献给阿尔吉侬的花束</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
