@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-10-31 | 读过🤓 <a href='https://book.douban.com/subject/30162953/' target='_blank'>人类群星闪耀时</a> ⭐⭐ |
 | 2023-10-28 | 听过😋 <a href='https://music.douban.com/subject/36335011/' target='_blank'>崩坏:星穹铁道 - 失控</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/35925645/' target='_blank'>崩坏：星穹铁道</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/36124711/' target='_blank'>土豆兄弟 Brotato</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/36242189/' target='_blank'>通神榜 Noobs Want to Live</a> ⭐⭐⭐⭐ |
-| 2023-10-28 | 读过🤓 <a href='https://book.douban.com/subject/35989392/' target='_blank'>献给阿尔吉侬的花束</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
