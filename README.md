@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2023-12-02 | 想读📚 <a href='https://book.douban.com/subject/5263615/' target='_blank'>五天学会绘画</a>  |
 | 2023-11-15 | 看过😎 <a href='http://movie.douban.com/subject/36093351/' target='_blank'>葬送的芙莉莲</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-31 | 读过🤓 <a href='https://book.douban.com/subject/30162953/' target='_blank'>人类群星闪耀时</a> ⭐⭐ |
 | 2023-10-28 | 听过😋 <a href='https://music.douban.com/subject/36335011/' target='_blank'>崩坏:星穹铁道 - 失控</a> ⭐⭐⭐⭐⭐ |
 | 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/35925645/' target='_blank'>崩坏：星穹铁道</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-28 | 玩过🕹 <a href='http://www.douban.com/game/36124711/' target='_blank'>土豆兄弟 Brotato</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
