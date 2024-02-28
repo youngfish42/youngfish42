@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-02-27 | 看过😎 <a href='http://movie.douban.com/subject/36208094/' target='_blank'>第二十条</a> ⭐⭐⭐⭐ |
 | 2024-02-05 | 看过😎 <a href='http://movie.douban.com/subject/1308038/' target='_blank'>牧马人</a> ⭐⭐⭐⭐⭐ |
 | 2024-01-19 | 看过😎 <a href='http://movie.douban.com/subject/36065792/' target='_blank'>堤亚穆帝国物语～从断头台开始，公主重生后的逆转人生～</a> ⭐⭐⭐⭐ |
 | 2023-12-02 | 想读📚 <a href='https://book.douban.com/subject/5263615/' target='_blank'>五天学会绘画</a>  |
 | 2023-11-15 | 看过😎 <a href='http://movie.douban.com/subject/36093351/' target='_blank'>葬送的芙莉莲</a> ⭐⭐⭐⭐⭐ |
-| 2023-10-31 | 读过🤓 <a href='https://book.douban.com/subject/30162953/' target='_blank'>人类群星闪耀时</a> ⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
