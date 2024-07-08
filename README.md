@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/35306636/' target='_blank'>无职转生：到了异世界就拿出真本事 Part.2</a>  |
+| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part.1</a> ⭐⭐⭐⭐⭐ |
+| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/36576576/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part 2</a> ⭐⭐⭐⭐⭐ |
 | 2024-05-14 | 看过😎 <a href='http://movie.douban.com/subject/6722879/' target='_blank'>她</a> ⭐⭐⭐⭐⭐ |
 | 2024-04-16 | 看过😎 <a href='http://movie.douban.com/subject/35964611/' target='_blank'>我独自升级</a> ⭐⭐⭐ |
-| 2024-03-09 | 看过😎 <a href='http://movie.douban.com/subject/36151692/' target='_blank'>周处除三害</a> ⭐⭐⭐⭐ |
-| 2024-02-27 | 看过😎 <a href='http://movie.douban.com/subject/36208094/' target='_blank'>第二十条</a> ⭐⭐⭐⭐ |
-| 2024-02-05 | 看过😎 <a href='http://movie.douban.com/subject/1308038/' target='_blank'>牧马人</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
