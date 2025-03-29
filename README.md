@@ -56,10 +56,10 @@
 | Date | Title |
 | :-: | :---: |
 | 2025-01-19 | 读过🤓 <a href='https://book.douban.com/subject/37129513/' target='_blank'>五亿年前，我是条鱼?</a>  |
-| 2024-08-30 | 看过😎 <a href='http://movie.douban.com/subject/35778548/' target='_blank'>靠废柴技能【状态异常】成为最强的我将蹂躏一切</a> ⭐⭐⭐ |
-| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/35306636/' target='_blank'>无职转生：到了异世界就拿出真本事 Part.2</a>  |
-| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part.1</a> ⭐⭐⭐⭐⭐ |
-| 2024-07-07 | 看过😎 <a href='http://movie.douban.com/subject/36576576/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part 2</a> ⭐⭐⭐⭐⭐ |
+| 2024-08-30 | 看过😎 <a href='https://movie.douban.com/subject/35778548/' target='_blank'>靠废柴技能【状态异常】成为最强的我将蹂躏一切</a> ⭐⭐⭐ |
+| 2024-07-07 | 看过😎 <a href='https://movie.douban.com/subject/35306636/' target='_blank'>无职转生：到了异世界就拿出真本事 Part.2</a>  |
+| 2024-07-07 | 看过😎 <a href='https://movie.douban.com/subject/35460731/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part.1</a> ⭐⭐⭐⭐⭐ |
+| 2024-07-07 | 看过😎 <a href='https://movie.douban.com/subject/36576576/' target='_blank'>无职转生Ⅱ 到了异世界就拿出真本事 Part 2</a> ⭐⭐⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
