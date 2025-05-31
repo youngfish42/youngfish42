@@ -1,4 +1,4 @@
-<h3 align="center"> Yuwen Yang / 白小鱼 (youngfish) </h3>
+<h3 align="center"> Yuwen Yang / youngfish </h3>
 
 <p align="center">
   <samp>
@@ -22,11 +22,11 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
-- 🔭 I’m currently a Ph.D. Candidate @[SJTU](https://www.sjtu.edu.cn/).
-- 🌱 My current research interests are focus on federated learning and edge intelligence.
+- 🎓 Ph.D. from [SJTU](https://www.sjtu.edu.cn/), specializing in Federated Learning.
+- 💼 Current focus: AI industry research & analysis.
 - 📫 You can reach me at [im.young@foxmail.com](mailto:im.young@foxmail.com).
-- 🎨 I hope to make more attempts in my life and know everything I want.
-- ❤️ Love writing articles about frontier progress and funny things of AI.
+- 🎨 Pursuing diverse life experiences and continuous curiosity.
+- ❤️ Enjoy writing about AI frontier advancements and interesting insights.
 
 
 
