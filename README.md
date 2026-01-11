@@ -55,11 +55,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2025-11-18 | 最近 <a href='https://book.douban.com/subject/37817514/' target='_blank'>在读当我们谈论AI时——从互联网走向通用人工智能</a>  |
-| 2025-11-18 | 最近 <a href='https://book.douban.com/subject/37118103/' target='_blank'>在读离线·滤镜</a>  |
-| 2025-10-24 | 看过😎 <a href='https://movie.douban.com/subject/1293172/' target='_blank'>末代皇帝</a> ⭐⭐⭐⭐⭐ |
-| 2025-08-03 | 想看🤔 <a href='https://movie.douban.com/subject/26817136/' target='_blank'>疯狂动物城2</a>  |
-| 2025-08-03 | 看过😎 <a href='https://movie.douban.com/subject/34780991/' target='_blank'>哪吒之魔童闹海</a> ⭐⭐⭐⭐ |
+
 <!-- END_SECTION:douban -->
 
 </td>
