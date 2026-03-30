@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
+| 2026-03-29 | 看过😎 <a href='https://movie.douban.com/subject/37149363/' target='_blank'>地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～</a> ⭐⭐⭐⭐ |
+| 2026-03-29 | 看过😎 <a href='https://movie.douban.com/subject/37291783/' target='_blank'>安闲领主的愉快领地防卫</a> ⭐⭐⭐ |
 | 2026-03-16 | 看过😎 <a href='https://movie.douban.com/subject/36474027/' target='_blank'>镖人：风起大漠</a> ⭐⭐⭐⭐ |
 | 2026-02-25 | 想看🤔 <a href='https://movie.douban.com/subject/36419921/' target='_blank'>谜探路德维希 第一季</a>  |
 | 2026-02-18 | 听过😋 <a href='https://music.douban.com/subject/27004730/' target='_blank'>爱乐之城：电影原声带</a> ⭐⭐⭐⭐⭐ |
-| 2026-01-17 | 看过😎 <a href='https://movie.douban.com/subject/36590091/' target='_blank'>无职英雄 ～技能什么的毫无用处～</a> ⭐⭐⭐ |
-| 2025-11-18 | 最近 <a href='https://book.douban.com/subject/37817514/' target='_blank'>在读当我们谈论AI时——从互联网走向通用人工智能</a>  |
 <!-- END_SECTION:douban -->
 
 </td>
