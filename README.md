@@ -55,11 +55,11 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2026-03-29 | 看过😎 <a href='https://movie.douban.com/subject/37149363/' target='_blank'>地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～</a> ⭐⭐⭐⭐ |
-| 2026-03-29 | 看过😎 <a href='https://movie.douban.com/subject/37291783/' target='_blank'>安闲领主的愉快领地防卫</a> ⭐⭐⭐ |
-| 2026-03-16 | 看过😎 <a href='https://movie.douban.com/subject/36474027/' target='_blank'>镖人：风起大漠</a> ⭐⭐⭐⭐ |
-| 2026-02-25 | 想看🤔 <a href='https://movie.douban.com/subject/36419921/' target='_blank'>谜探路德维希 第一季</a>  |
-| 2026-02-18 | 听过😋 <a href='https://music.douban.com/subject/27004730/' target='_blank'>爱乐之城：电影原声带</a> ⭐⭐⭐⭐⭐ |
+| 2026-04-04 | 在看👀 <a href='https://movie.douban.com/subject/30358101/' target='_blank'>转生成为了只有乙女游戏破灭Flag的邪恶大小姐</a> ⭐⭐⭐⭐ |
+| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/35840265/' target='_blank'>异世界悠闲农家</a> ⭐⭐⭐⭐ |
+| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/36623864/' target='_blank'>拥有超常技能的异世界流浪美食家 第二季</a> ⭐⭐⭐⭐ |
+| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/36075032/' target='_blank'>超常技能开启奇幻世界美食之旅</a> ⭐⭐⭐⭐ |
+| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/37014495/' target='_blank'>中年男的异世界网购生活</a> ⭐⭐⭐ |
 <!-- END_SECTION:douban -->
 
 </td>
