@@ -55,11 +55,7 @@
 <!-- START_SECTION:douban -->
 | Date | Title |
 | :-: | :---: |
-| 2026-04-04 | 在看👀 <a href='https://movie.douban.com/subject/30358101/' target='_blank'>转生成为了只有乙女游戏破灭Flag的邪恶大小姐</a> ⭐⭐⭐⭐ |
-| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/35840265/' target='_blank'>异世界悠闲农家</a> ⭐⭐⭐⭐ |
-| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/36623864/' target='_blank'>拥有超常技能的异世界流浪美食家 第二季</a> ⭐⭐⭐⭐ |
-| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/36075032/' target='_blank'>超常技能开启奇幻世界美食之旅</a> ⭐⭐⭐⭐ |
-| 2026-04-04 | 看过😎 <a href='https://movie.douban.com/subject/37014495/' target='_blank'>中年男的异世界网购生活</a> ⭐⭐⭐ |
+
 <!-- END_SECTION:douban -->
 
 </td>
